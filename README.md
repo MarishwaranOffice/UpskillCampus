@@ -57,10 +57,6 @@ Answer: delhi
 
 Correct Answer
 
-Author
-
-Mari Paramasivam S
-
 Purpose
 
 This project was developed as part of a Python learning internship to practice programming concepts such as loops, conditions, functions, and user input handling.
